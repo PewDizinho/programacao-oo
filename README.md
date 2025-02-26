@@ -1,2 +1,5 @@
 # programacao-oo
-Criado a pedido do professor [Chauã Queirolo](Criado a pedido do professor [Chauã Queirolo]())
+
+Aluno: Paulo Eduardo Konopka
+Periodo: 3°
+
